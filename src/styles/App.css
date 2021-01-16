@@ -1,0 +1,21 @@
+h1 {
+  color: #27aedb;
+  text-align: center;
+}
+
+/* button {
+  color: #27aedb;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+} */
+
+#reset-btn,
+#start-btn,
+#stop-btn,
+#set-btn {
+  background-color: black;
+  color: white;
+}
