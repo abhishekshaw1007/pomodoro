@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import "../styles/App.css";
 
 function App() {
   const [workingInterval, setworkingInterval] = useState(25);
